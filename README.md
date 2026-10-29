@@ -1,27 +1,54 @@
-# Hi, I'm Muhammad Suhaim
+<div align="center">
 
-**Web & native Android developer · Daska, Pakistan**
+![Muhammad Suhaim — Full-Stack Web and Android Developer](./assets/profile-hero.svg)
 
-I build practical applications with clear interfaces and reliable data flows. My work includes a published Android app and personal demonstrations of ordering, inventory and expense-tracking workflows.
+# Hi, I'm Muhammad Suhaim 👋
 
-### Featured work
+**Full-Stack Web & Native Android Developer** · Pakistan
 
-| Project | What it does | Main technology | Status |
-|---|---|---|---|
-| [SNJ Gold Rates](https://play.google.com/store/apps/details?id=com.snj.goldrates) | Gold and silver rates, price history and jewellery calculations | Kotlin, Jetpack Compose, Room, Retrofit, Firebase | Published on Google Play |
-| [StockDesk](https://github.com/msuhaim491/stockdesk) | Inventory, customer records, sales and invoices | React, TypeScript, Node.js, SQLite | Personal demo |
-| [Dastarkhwan](https://github.com/msuhaim491/dastarkhwan-ordering) | Menu, cart, checkout and order management | React, TypeScript, Cloudflare Workers, D1 | Personal demo |
-| [PocketLedger](https://github.com/msuhaim491/pocket-ledger) | Offline income/expenses, monthly insights and CSV export | Kotlin, Compose, Material 3, Room, StateFlow | Personal demo |
+I build practical digital products—from responsive storefronts and internal business tools to native Android applications. I focus on clear interfaces, maintainable code, and reliable data flows.
 
-### Tools I work with
+**[Explore my projects](#selected-work) · [Email me](mailto:muhammedsuhaim32@gmail.com)**
 
-- **Android:** Kotlin, Jetpack Compose, Material 3, MVVM, Coroutines, StateFlow, Room
-- **Web:** React, TypeScript, HTML, CSS, JavaScript, Node.js
-- **Integrations:** REST APIs, Retrofit, OkHttp, Firebase Cloud Messaging, AdMob
-- **Data:** SQLite and Cloudflare D1
+</div>
 
-### Contact
+## What I can build
 
-[muhammedsuhaim32@gmail.com](mailto:muhammedsuhaim32@gmail.com)
+- **Web applications:** responsive interfaces, REST APIs, authentication, dashboards and business workflows
+- **E-commerce & ordering:** product catalogs, carts, checkout flows and order management
+- **Android applications:** Kotlin, Jetpack Compose, local persistence and API integrations
+- **Business software:** inventory, invoicing, expense tracking and operational tools
 
-Open to freelance web and Android development projects.
+## Selected work
+
+| Project | What it demonstrates | Stack | Status |
+|:--|:--|:--|:--|
+| **[SNJ Gold Rates](https://play.google.com/store/apps/details?id=com.snj.goldrates)** | Gold/silver rates, historical prices and jewellery calculations | Kotlin · Jetpack Compose · Room · Retrofit · Firebase | Published Android app |
+| **[StockDesk](https://github.com/msuhaim491/stockdesk)** | Inventory, customer management, sales and invoices | React · TypeScript · Node.js · SQLite | Personal demo |
+| **[Dastarkhwan Ordering](https://github.com/msuhaim491/dastarkhwan-ordering)** | Restaurant menu, cart, checkout and order workflows | React · TypeScript · Cloudflare Workers · D1 | Personal demo |
+| **[PocketLedger](https://github.com/msuhaim491/pocket-ledger)** | Offline expense tracking, insights and CSV export | Kotlin · Jetpack Compose · Room | Personal demo |
+| **[FitForge](https://github.com/msuhaim491/fitforge-gym-landing)** | Responsive gym landing page | Web frontend | Personal demo |
+
+**In progress:** FOREVER — an independently designed MERN e-commerce learning project with a storefront, admin dashboard, MongoDB, COD and Stripe test-mode integration. Repository and live demo will be added when publishing and end-to-end testing are complete.
+
+## Technology
+
+**Frontend:** React · TypeScript · JavaScript · HTML · CSS  
+**Backend:** Node.js · REST APIs · Cloudflare Workers  
+**Android:** Kotlin · Jetpack Compose · Material 3 · MVVM · Coroutines · StateFlow  
+**Databases & services:** MongoDB · SQLite · Room · Cloudflare D1 · Firebase
+
+## How I work
+
+I care about user-friendly design, understandable project structure, input validation, and predictable backend behavior. My repositories include projects at different stages; I label personal demonstrations and published products clearly rather than presenting tutorial work as paid client engagements.
+
+## Have a project in mind?
+
+Need a website, internal tool, ordering platform, or Android application? Share your goals, key features, and timeline, and we can discuss a practical approach.
+
+**📩 [Email: muhammedsuhaim32@gmail.com](mailto:muhammedsuhaim32@gmail.com)**  
+**💻 [GitHub: @msuhaim491](https://github.com/msuhaim491)**
+
+---
+
+<div align="center"><sub>Building useful software, one thoughtful release at a time.</sub></div>
