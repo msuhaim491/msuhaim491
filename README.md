@@ -29,7 +29,7 @@ I build practical digital products—from responsive storefronts and internal bu
 | **[PocketLedger](https://github.com/msuhaim491/pocket-ledger)** | Offline expense tracking, insights and CSV export | Kotlin · Jetpack Compose · Room | Personal demo |
 | **[FitForge](https://github.com/msuhaim491/fitforge-gym-landing)** | Responsive gym landing page | Web frontend | Personal demo |
 
-**In progress:** FOREVER — an independently designed MERN e-commerce learning project with a storefront, admin dashboard, MongoDB, COD and Stripe test-mode integration. Repository and live demo will be added when publishing and end-to-end testing are complete.
+| **[FOREVER E-commerce](https://github.com/msuhaim491/forever-mern-ecommerce)** | Premium storefront, catalog, cart, order workflows and admin dashboard | React · Express · MongoDB · Stripe (test integration) | Source published · CI build passing · Live deployment pending |
 
 ## Technology
 
