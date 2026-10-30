@@ -30,6 +30,12 @@ I build practical digital products—from responsive storefronts and internal bu
 | **[FitForge](https://github.com/msuhaim491/fitforge-gym-landing)** | Responsive gym landing page | Web frontend | Personal demo |
 | **[FOREVER E-commerce](https://github.com/msuhaim491/forever-mern-ecommerce)** | [Live storefront](https://forever-mern-suhaim491.netlify.app/), catalog, cart and admin dashboard | React · Express · MongoDB · Netlify Functions | Public demo · owner-tested COD checkout and admin order display · Stripe pending |
 
+### Featured live preview · FOREVER
+
+[![FOREVER premium e-commerce live homepage](https://raw.githubusercontent.com/msuhaim491/forever-mern-ecommerce/main/assets/forever-home-preview.webp)](https://forever-mern-suhaim491.netlify.app/)
+
+*Actual live-store screenshot · [View source code](https://github.com/msuhaim491/forever-mern-ecommerce) · [Launch the demo](https://forever-mern-suhaim491.netlify.app/)*
+
 ## Technology
 
 **Frontend:** React · TypeScript · JavaScript · HTML · CSS  
