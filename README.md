@@ -28,7 +28,7 @@ I build practical digital products—from responsive storefronts and internal bu
 | **[Dastarkhwan Ordering](https://github.com/msuhaim491/dastarkhwan-ordering)** | Restaurant menu, cart, checkout and order workflows | React · TypeScript · Cloudflare Workers · D1 | Personal demo |
 | **[PocketLedger](https://github.com/msuhaim491/pocket-ledger)** | Offline expense tracking, insights and CSV export | Kotlin · Jetpack Compose · Room | Personal demo |
 | **[FitForge](https://github.com/msuhaim491/fitforge-gym-landing)** | Responsive gym landing page | Web frontend | Personal demo |
-| **[FOREVER E-commerce](https://github.com/msuhaim491/forever-mern-ecommerce)** | [Live storefront](https://forever-mern-suhaim491.netlify.app/), catalog, cart and admin dashboard | React · Express · MongoDB · Netlify Functions | Public demo · API verified by project owner · checkout testing pending |
+| **[FOREVER E-commerce](https://github.com/msuhaim491/forever-mern-ecommerce)** | [Live storefront](https://forever-mern-suhaim491.netlify.app/), catalog, cart and admin dashboard | React · Express · MongoDB · Netlify Functions | Public demo · owner-tested COD checkout and admin order display · Stripe pending |
 
 ## Technology
 
